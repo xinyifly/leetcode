@@ -1,5 +1,9 @@
 Naming/FileName:
   Enabled: false
 
+Naming/UncommunicativeMethodParamName:
+  AllowedNames:
+    - 'x'
+
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
