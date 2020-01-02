@@ -5,8 +5,7 @@ Naming/PredicateName:
   Enabled: false
 
 Naming/UncommunicativeMethodParamName:
-  AllowedNames:
-    - 'x'
+  Enabled: false
 
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
