@@ -1,6 +1,9 @@
 Naming/FileName:
   Enabled: false
 
+Naming/PredicateName:
+  Enabled: false
+
 Naming/UncommunicativeMethodParamName:
   AllowedNames:
     - 'x'
