@@ -7,5 +7,9 @@ Naming/PredicateName:
 Naming/UncommunicativeMethodParamName:
   Enabled: false
 
+Style/AsciiComments:
+  AllowedChars:
+    - '≤'
+
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
