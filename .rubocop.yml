@@ -1,10 +1,13 @@
+Metrics/MethodLength:
+  Enabled: false
+
 Naming/FileName:
   Enabled: false
 
-Naming/PredicateName:
-  Enabled: false
+Naming/MethodParameterName:
+  MinNameLength: 1
 
-Naming/UncommunicativeMethodParamName:
+Naming/PredicateName:
   Enabled: false
 
 Style/AsciiComments:
